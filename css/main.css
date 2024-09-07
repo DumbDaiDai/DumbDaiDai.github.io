@@ -1099,7 +1099,7 @@ pre code {
   margin: 0;
 }
 .site-subtitle {
-  color: #ddd;
+  color: #333;
   font-size: 0.8125em;
   margin: 10px 10px 0;
 }
@@ -1234,7 +1234,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #6f2d8e;
+    background: #94ffdd;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
